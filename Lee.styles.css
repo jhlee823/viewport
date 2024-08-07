@@ -81,7 +81,7 @@ table {
 @media (prefers-color-scheme: dark) {
     body {
         background-color: var(--dark-gray);
-        color: var(--white);
+        color: var(--light-gray);
     }
 }
 /* CHANGE THE BODY'S BACKGROUND COLOR TO THE DARK GRAY IF THE USER PREFERS DARK MODE */
